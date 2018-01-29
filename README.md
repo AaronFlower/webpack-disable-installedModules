@@ -59,7 +59,7 @@ The Reason I found is that the build [bundle-vendor.js cache the module and does
 ```
 
 
-** So, I want to ask do I use CommonsChunkPlugin properly and how to disable installedModules cache ?**,
+**So, I want to ask do I use CommonsChunkPlugin properly and how to disable installedModules cache ?**,
 
 
 
